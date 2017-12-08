@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
 [assembly: AssemblyTitle("personalNotesApiConnectorCSharp")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Api connector for PersonalNotesApi")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("alexparedes.ovh")]
 [assembly: AssemblyProduct("personalNotesApiConnectorCSharp")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]

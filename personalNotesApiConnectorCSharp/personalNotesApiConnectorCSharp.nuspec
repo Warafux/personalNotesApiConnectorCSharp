@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>alexparedes.personalNotesApiConnectorCSharp</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/Warafux/personalNotesApiConnectorCSharp/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First NuGet release.</releaseNotes>
+    <copyright>Copyright 2017 - Warafu</copyright>
+    <tags>personal notes api connector alexparedes.ovh</tags>
+  </metadata>
+</package>

@@ -9,13 +9,13 @@ using Newtonsoft.Json.Linq;
 
 namespace personalNotesApp
 {
-    public class personalNotesAppApiConnector
+    public class personalNotesApiConnector
     {
         private static readonly HttpClient client = new HttpClient();
         private string apiUrl = "https://personalnotesapi.alexparedes.ovh/";
         private string token = "";
         private Boolean isLogged = false;
-        public personalNotesAppApiConnector()
+        public personalNotesApiConnector()
         {
             client.Timeout = TimeSpan.FromSeconds(2);
         }
